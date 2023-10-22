@@ -1,8 +1,5 @@
 # Sprawozdanie zadanie 1
 
-![Alt text](image.png)
-
-
 1. Zainicjuj nowe repozytorium Git w dowolnym folderze na swoim komputerze, używając komendy:
 `git init`
 2. Utwórz nowy plik tekstowy o nazwie `"moj_plik.txt"` wewnątrz tego repozytorium i dodaj kilka przykładowych linii tekstu do tego pliku.
@@ -14,3 +11,9 @@ git add `"moj_plik.txt"`
 git commit -m `"Dodano moj_plik.txt"`
 7. Plik `"moj_plik.txt"` jest teraz śledzony w repozytorium i ma zatwierdzony stan.
 8. Możesz również utworzyć zdalne repozytorium (na platformie takiej jak GitHub lub GitLab) i udostępnić je innym osobom, aby pokazać, jak można współpracować nad projektem i udostępniać zmiany.
+
+## Screenshots
+
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
